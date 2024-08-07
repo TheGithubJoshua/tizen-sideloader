@@ -159,8 +159,6 @@ int main(int, char**)
             static char tizenloc[155];
             static int demowindow;
 
-            freopen("out.txt","w",stdout);
-
             ImGui::Begin("Tizen Sideloader");                         
             ImGui::Text("Enter device IP and Port:");
             ImGui::PushItemWidth(110);               
