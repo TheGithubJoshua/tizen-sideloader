@@ -1,6 +1,11 @@
-#### Sideload apps on Samsung Tizen TVs without messing around with Tizen Studio
+#### Sideload apps on Samsung Tizen TVs without messing around with Tizen Studio.
+
+![](https://files.rickroll.space/content/cdn/eiqDEZeCFill.png) 
+
+*Beautiful ImGui UI*
 
 # How to Build
+(Only tested on Linux, support of other Operating Systems is not guaranteed.)
 
 ## Windows with Visual Studio's CLI
 
